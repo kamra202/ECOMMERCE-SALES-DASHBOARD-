@@ -5,10 +5,6 @@
 **Aim :- This project aims to provide a clear and actionable understanding of the e-commerce business and its various components, helping identify areas for improvement and growth.**
 
 
-## Installation
-
-To run this project on your machine you need to install <a href="https://powerbi.microsoft.com/en-us/downloads/">Microsoft Power Bi</a>.
-
 <!-- ## Usage
 
 Provide instructions and examples for use. Include screenshots as needed.
@@ -25,15 +21,6 @@ To add a screenshot, create an `assets/images` folder in your repository and upl
 * Power Query
 * Dax Query
 
-
-## Badges
-
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
-
-## **Power BI Dashboard Visualization**
-
-![image](https://github.com/jippy66/ECOMMERCE-SALES-DASHBOARD-IN-POWER-BI/assets/110474637/09a8d343-d279-4bb0-940c-fd4829f75674)
 
 
 The E-commerce business Power BI Dashboard visualizes key performance indicators(KPI) including Total Profit, Sales, Total Quantity, No. of Orders, Profit Margin%.
